@@ -37,6 +37,44 @@
           "subtitle": null
         }
       ]
+    },
+    {
+      "title": "Мы рекомендуем",
+      "cellType": "bottle",
+      "items": [
+        {
+          "itemId": "1",
+          "width": 320,
+          "transitionType": "product",
+          "imageURL": "https://media.danmurphys.com.au/dmo/product/464845-1.png",
+          "title": "Dom Perignion",
+          "subtitle": "France, Burgundia"
+        },
+        {
+          "itemId": "1",
+          "width": 320,
+          "transitionType": "product",
+          "imageURL": "https://media.danmurphys.com.au/dmo/product/464845-1.png",
+          "title": "Dom Perignion",
+          "subtitle": "France, Burgundia"
+        },
+        {
+          "itemId": "1",
+          "width": 320,
+          "transitionType": "product",
+          "imageURL": "https://media.danmurphys.com.au/dmo/product/464845-1.png",
+          "title": "Dom Perignion",
+          "subtitle": "France, Burgundia"
+        },
+        {
+          "itemId": "1",
+          "width": 320,
+          "transitionType": "product",
+          "imageURL": "https://media.danmurphys.com.au/dmo/product/464845-1.png",
+          "title": "Dom Perignion",
+          "subtitle": "France, Burgundia"
+        }
+      ]
     }
   ]
 }
