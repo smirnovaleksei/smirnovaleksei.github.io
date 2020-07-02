@@ -1,1 +1,18 @@
-{}
+{
+  "rows": [
+    {
+      "title": null,
+      "cellType": "mini",
+      "items": [
+        {
+          "itemId": "1",
+          "width": 135,
+          "transitionType": "category",
+          "imageURL": "https://www.digitalcommerce360.com/wp-content/uploads/2020/03/shutterstock_647463052-scaled.jpg",
+          "title": "Вина Бургундии",
+          "subtitle": null
+        }
+      ]
+    }
+  ]
+}
