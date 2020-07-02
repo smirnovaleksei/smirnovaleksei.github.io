@@ -105,6 +105,28 @@
           "subtitle": null
         }
       ]
+    },
+    {
+      "title": "Наши сервисы",
+      "cellType": "big",
+      "items": [
+        {
+          "itemId": "1",
+          "width": 250,
+          "transitionType": "category",
+          "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSA2eMe17ns4XugqhxjwIA8Q39UpqGmfkhXjB2FFWXGJFWmz2bj&usqp=CAU",
+          "title": "Аренда бокалов",
+          "subtitle": null
+        },
+        {
+          "itemId": "1",
+          "width": 250,
+          "transitionType": "category",
+          "imageURL": "https://cdn2.hubspot.net/hubfs/491068/Email/Tour_Douro_Cruise_Douro_River_Wine_Tourism_Portugal.jpg",
+          "title": "Винный туризм",
+          "subtitle": null
+        }
+      ]
     }
   ]
 }
