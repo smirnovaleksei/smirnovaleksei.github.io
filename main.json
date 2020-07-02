@@ -75,6 +75,37 @@
           "subtitle": "France, Burgundia"
         }
       ]
+    },
+    {
+      //
+      "title": null,
+      "cellType": "promo",
+      "items": [
+        {
+          "itemId": "1",
+          "width": 320,
+          "transitionType": "category",
+          "imageURL": "https://253qv1sx4ey389p9wtpp9sj0-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Enth100_1920x1280w.jpg",
+          "title": "Франция",
+          "subtitle": null
+        },
+        {
+          "itemId": "1",
+          "width": 320,
+          "transitionType": "category",
+          "imageURL": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/bhljtpbxidjnjgijta5q/YarraValleyWineTourfromMelbourne.jpg",
+          "title": "Италия",
+          "subtitle": null
+        },
+        {
+          "itemId": "1",
+          "width": 320,
+          "transitionType": "category",
+          "imageURL": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/wine-bottles-packed-in-a-wooden-box-shot-rustic-royalty-free-image-876953334-1560270949.jpg?crop=1.00xw:0.752xh;0,0.147xh&resize=1200:*",
+          "title": "Германия",
+          "subtitle": null
+        }
+      ]
     }
   ]
 }
